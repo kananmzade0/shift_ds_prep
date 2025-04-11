@@ -1,0 +1,4 @@
+.venv
+HelloWorldApp
+__pycache__/
+creditcard.csv
